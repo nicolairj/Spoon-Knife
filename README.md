@@ -11,3 +11,5 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 NRJ added this to file from cloned repository. I first forked it into my GitHub account, then I cloned it from my account to my local machine.
 Then, I performed this change in the local machine. Saved the file. Tried to commit the change to GitHub using Git.
+
+Another modification
